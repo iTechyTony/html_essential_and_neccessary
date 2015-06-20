@@ -1,0 +1,265 @@
+div#nav   
+{ 
+   border: solid 0.1em #e1e1e1; 
+   border-radius: 1em; 
+   margin: 0; 
+   padding: 0 0.5em 1.5em 0.5em; 
+   width: 10em;
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav ul 
+{ 
+   margin: 0; 
+   padding: 0; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav li    
+{ 
+   margin: 1em 0 0 0; 
+   padding: 0; 
+   list-style: none; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav a 
+{ 
+   margin: 0; 
+   padding: 0 1em; 
+   display: block; 
+   text-decoration: none; 
+   border-bottom: 1px solid #A8BFCF; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav a:hover 
+{ 
+   border-bottom: solid 1px #ffa20f; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav li  
+{ 
+   display: inline;
+}
+div#nav a  
+{ 
+   display: inline;
+}
+div#nav ul ul 
+{ 
+   margin-left: 1em;
+}
+
+div#nav1   
+{ 
+   border: solid 0.1em #e1e1e1; 
+   border-radius: 1em; 
+   margin: 0; 
+   padding: 0 0.5em 1.5em 0.5em; 
+   width: 25em;
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav1 ul 
+{ 
+   margin: 0; 
+   padding: 0; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav1 li    
+{ 
+   margin: 1em 0 0 0; 
+   padding: 0; 
+   list-style: none; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav1 a 
+{ 
+   margin: 0; 
+   padding: 0 1em; 
+   display: block; 
+   text-decoration: none; 
+   border-bottom: 1px solid #A8BFCF; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav1 a:hover 
+{ 
+   border-bottom: solid 1px #ffa20f; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav1 li  
+{ 
+   display: inline;
+}
+div#nav1 a  
+{ 
+   display: inline;
+}
+div#nav1 ul ul 
+{ 
+   margin-left: 1em;
+}
+
+div#nav2   
+{ 
+   border: solid 0.3em #2C12EB;
+   border-radius: 1.5em; 
+   margin: 0; 
+   padding: 0 0.5em 1.5em 0.5em; 
+   width: 8em;
+   color: blue; 
+   background-color: #DADA7C; 
+}
+div#nav2 ul 
+{ 
+   margin: 0; 
+   padding: 0; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav2 li    
+{ 
+   margin: 1em 0 0 0; 
+   padding: 0; 
+   list-style: none; 
+   color: blue; 
+   background-color: inherit; 
+}
+
+div#nav2 a 
+{ 
+   margin: 0; 
+   padding: 0 1.8em; 
+   display: block; 
+   text-decoration: none; 
+   border-bottom: 2px solid red; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav2 a:hover 
+{ 
+   border-bottom: solid 4px #FFF847;
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav3   
+{ 
+   border: solid 0.3em #2C12EB;
+   border-radius: 1.5em; 
+   margin: 0; 
+   padding: 0 0.5em 1.5em 0.5em; 
+   width: 15em;
+   color: blue; 
+   background-color: #DADA7C; 
+}
+div#nav3 ul 
+{ 
+   margin: 0; 
+   padding: 0; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav3 li    
+{ 
+   margin: 1em 0 0 0; 
+   padding: 0; 
+   list-style: none; 
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav3 a 
+{ 
+   margin: 0; 
+   padding: 0 1em; 
+   display: block; 
+   text-decoration: none; 
+   border-bottom: 3px solid green; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav3 a:hover 
+{ 
+   border-bottom: solid 4px #FFF847; 
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav4 li  
+{ 
+   display: inline;
+}
+div#nav4 a  
+{ 
+   display: inline;
+}
+div#nav4   
+{ 
+   border: solid 0.3em #000000; 
+   border-radius: 1em; 
+   margin: 0; 
+   padding: 0 0.5em 0.5em 0.5em; 
+   width: 20em;
+   color: blue; 
+   background-color: yellow; 
+}
+
+div#nav4 a 
+{ 
+   margin: 0;
+   padding: 0 1em;  
+   text-decoration: none; 
+   border-bottom: 3px solid red; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav4 a:hover 
+{ 
+   border-bottom: solid 4px blue; 
+   color: inherit; 
+   background-color: inherit; 
+}
+
+div#nav5 li  
+{ 
+   display: inline;
+}
+div#nav5 a  
+{ 
+   display: inline;
+}
+div#nav5   
+{ 
+   border: solid 0.3em #000000; 
+   border-radius: 1em; 
+   margin: 0; 
+   padding: 0 0.5em 0.5em 0.5em; 
+   width: 30em;
+   color: blue; 
+   background-color: yellow; 
+}
+
+div#nav5 a 
+{ 
+   margin: 0;
+   padding: 0 1em;  
+   text-decoration: none; 
+   border-bottom: 3px solid red; 
+   color: inherit; 
+   background-color: inherit; 
+}
+div#nav5 a:hover 
+{ 
+   border-bottom: solid 4px blue; 
+   color: inherit; 
+   background-color: inherit; 
+}

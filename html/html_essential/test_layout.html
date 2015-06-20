@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+   <head> <title>My first Web page</title> <meta charset="utf-8" /> 
+      <link href="../../css/css_essential/grid.css" rel="stylesheet" type="grid/css" />   
+      <link href="../../css/css_essential/main.css" rel="stylesheet" type="main/css" />   
+   </head> 
+   <body> 
+   	<p><a href="../../index.html">Go to My Index Essential</a></p>
+   	<p><a href="../index.html">Go to My Index Necessary</a></p>
+   	<p><a href="portfolio.html">Go to My Porfolio Essential</a></p>
+   	<p><a href="../html_necessary/portfolio.html">Go to My Porfolio Necessary</a></p>
+      <!-- header row -->    
+      <div class="grid10 first" id="header">  
+          <h1>A grid10 for the header</h1> 
+      </div> 
+      <!-- 2 column row - content and navigation columns -->     
+      <div class="grid7 first" id="col1"> <!-- left column --> 
+         <h1>A grid7 for the left column</h1> 
+      </div>          
+      <div class="grid3" id="col2"> <!-- right column --> 
+          <h1>A grid3 for the right column</h1> 
+          <!-- 3 column row, nested in the content column -->    
+<div class="grid3 first">
+   <h2>A grid3 for the left column</h2>
+</div>         
+<div class="grid4">
+    <h2>A grid3 for the centre column</h2>
+</div>
+<div class="grid3">
+    <h2>A grid4 for the right column</h2>
+</div>
+      </div> 
+      <!-- footer row -->    
+      <div class="grid10 first" id="footer"> 
+          <h1>A grid10 for the footer</h1> 
+      </div> 
+   </body> 
+</html>            

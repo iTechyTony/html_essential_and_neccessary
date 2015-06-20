@@ -1,0 +1,58 @@
+h1   { color: red; }
+h2   { color: blue; }
+
+p em { color: yellow; background-color: green; }
+li em { color: red; background-color: white; }
+
+
+
+body 
+{margin: 10px; 
+font-size: 11px;}
+
+div, h1 
+{color: green;
+background-color:  white;}
+
+body 
+{margin-top:    1em;
+margin-right:  2em;
+margin-bottom: 3em;
+margin-left:   4em;}
+
+body 
+{
+   margin:   1em 2em 3em 4em;
+}
+h1 
+{
+   border-top-style: solid;
+   border-top-width: 0.5em;
+   border-top-color: gray;
+}
+
+h1 
+{
+   border: solid 0.5em gray;   
+}
+
+p.tip {
+   border: solid .2em red;
+   border-radius: .5em;
+}
+
+a:link, a:visited          { border-bottom: 1px solid #A8BFCF; }
+a:link, a:visited, a:hover    { text-decoration: none; }
+a                      { color: inherit; background-color: inherit; }
+div#header p {background-color: gray;}
+div#header p {color: white;}
+div#header p {font-size: 15px}
+
+div#content p {background-color: white; }
+div#content h1 {background-color: white; }
+
+div#footer p {background-color: gray; }
+div#footer p {color:white}
+div#footer p {font-size: 15px}
+
+p.tip, span.tip { background-color:yellow}
